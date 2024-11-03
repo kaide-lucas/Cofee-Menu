@@ -1,1 +1,1 @@
-Olá, esse projeto cria um menu de uma cafeteria utilizando htlm e css.
+Olá, esse projeto cria um menu de uma cafeteria utilizando HTML e CSS.
